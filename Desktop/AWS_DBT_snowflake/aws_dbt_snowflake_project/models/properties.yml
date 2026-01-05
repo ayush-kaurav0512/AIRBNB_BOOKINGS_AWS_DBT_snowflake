@@ -1,0 +1,4 @@
+models:
+  - name: bronze
+    config:
+      materialized: table
